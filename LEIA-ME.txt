@@ -1,0 +1,8 @@
+CEIA PERFEITA — SITE PRÓPRIO
+1. Extraia o ZIP e abra a pasta no VS Code.
+2. Abra index.html no navegador (ou use Live Server, se instalado).
+3. Cadastre o produto digital e os três bônus na plataforma de vendas escolhida, por R$ 39,90.
+4. Copie o link HTTPS oficial do checkout e preencha CHECKOUT_URL em script.js. Preencha também SELLER_INFO.
+5. Antes de publicar, inclua identificação do fornecedor, contato, termos, privacidade e informações sobre entrega e direito de arrependimento conforme aplicável. Confira a oferta e teste o checkout.
+6. Hospede os arquivos estáticos mantendo a estrutura de pastas. Não coloque os PDFs pagos na pasta pública: entregue-os pela plataforma de vendas.
+O site não coleta dados nem processa pagamentos. Não inclui rastreamento, domínio, hospedagem ou checkout real. Imagens são ilustrativas.
